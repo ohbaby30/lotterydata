@@ -2,6 +2,7 @@
   "schema_version": 1,
   "lotteries": {
     "kl8": [
+      {"issue":"2026290","draw_date":"2026/10/31","numbers":[3,4,12,19,24,25,27,28,31,32,33,40,43,49,51,52,63,69,71,72],"source":"https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice","verification":"verified"},
       {"issue":"2026289","draw_date":"2026/10/30","numbers":[2,4,5,6,7,11,16,17,18,33,34,36,47,56,58,62,68,73,76,78],"source":"https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice","verification":"verified"},
       {"issue":"2026288","draw_date":"2026/10/29","numbers":[5,10,14,19,22,23,26,27,28,39,40,47,50,53,59,61,66,73,75,79],"source":"https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice","verification":"verified"},
       {"issue":"2026287","draw_date":"2026/10/28","numbers":[2,9,16,19,24,25,50,55,56,58,64,66,67,68,70,73,75,76,77,79],"source":"https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice","verification":"verified"},
@@ -2345,6 +2346,7 @@
       {"issue":"2025047","draw_date":"2025/04/29","numbers":[1,14,21,22,23,31,12],"source":"https://www.cwl.gov.cn/","verification":"verified","prizes":{"1":10000000.0,"2":152770.0,"3":3000.0,"4":200.0,"5":10.0,"6":5.0}}
     ],
     "dlt": [
+      {"issue":"26124","draw_date":"2026/10/31","numbers":[12,14,18,22,27,1,9],"source":"https://webapi.sporttery.cn/gateway/lottery/getHistoryPageListV1.qry","verification":"verified","prizes":{"1":7695413.0,"2":170861.0,"3":5000.0,"4":300.0,"5":150.0,"6":15.0,"7":5.0}},
       {"issue":"26123","draw_date":"2026/10/28","numbers":[13,18,19,20,28,9,11],"source":"https://webapi.sporttery.cn/gateway/lottery/getHistoryPageListV1.qry","verification":"verified","prizes":{"1":5750462.0,"2":47994.0,"3":5000.0,"4":300.0,"5":150.0,"6":15.0,"7":5.0}},
       {"issue":"26122","draw_date":"2026/10/26","numbers":[2,14,21,22,24,2,12],"source":"https://webapi.sporttery.cn/gateway/lottery/getHistoryPageListV1.qry","verification":"verified","prizes":{"1":7995227.0,"2":244856.0,"3":6666.0,"4":380.0,"5":200.0,"6":18.0,"7":7.0}},
       {"issue":"26121","draw_date":"2026/10/24","numbers":[6,8,19,24,25,1,8],"source":"https://webapi.sporttery.cn/gateway/lottery/getHistoryPageListV1.qry","verification":"verified","prizes":{"1":7741823.0,"2":96316.0,"3":6666.0,"4":380.0,"5":200.0,"6":18.0,"7":7.0}},
