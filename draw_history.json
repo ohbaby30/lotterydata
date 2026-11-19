@@ -2,6 +2,7 @@
   "schema_version": 1,
   "lotteries": {
     "kl8": [
+      {"issue":"2026309","draw_date":"2026/11/19","numbers":[2,5,9,12,13,17,20,21,23,26,35,39,44,47,49,50,53,57,64,74],"source":"https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice","verification":"verified"},
       {"issue":"2026308","draw_date":"2026/11/18","numbers":[3,8,9,12,15,18,25,31,35,36,48,51,56,57,58,59,70,71,77,80],"source":"https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice","verification":"verified"},
       {"issue":"2026307","draw_date":"2026/11/17","numbers":[4,5,11,14,18,19,24,25,27,28,41,44,46,53,57,63,66,73,77,78],"source":"https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice","verification":"verified"},
       {"issue":"2026306","draw_date":"2026/11/16","numbers":[10,17,18,24,25,28,31,34,37,39,48,49,52,54,57,62,63,69,71,78],"source":"https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice","verification":"verified"},
@@ -2133,6 +2134,7 @@
       {"issue":"2020001","draw_date":"2020/10/28","numbers":[6,8,15,27,28,30,37,38,39,44,46,49,51,52,59,70,75,77,78,80],"source":"https://www.cwl.gov.cn/","verification":"verified"}
     ],
     "ssq": [
+      {"issue":"2026133","draw_date":"2026/11/19","numbers":[7,10,11,14,21,26,13],"source":"https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice","verification":"verified","prizes":{"1":5882352.0,"2":152892.0,"3":3000.0,"4":200.0,"5":10.0,"6":5.0}},
       {"issue":"2026132","draw_date":"2026/11/17","numbers":[5,9,13,17,18,21,11],"source":"https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice","verification":"verified","prizes":{"1":6848394.0,"2":132372.0,"3":3000.0,"4":200.0,"5":10.0,"6":5.0}},
       {"issue":"2026131","draw_date":"2026/11/15","numbers":[1,10,19,26,31,33,15],"source":"https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice","verification":"verified","prizes":{"1":10000000.0,"2":335881.0,"3":3000.0,"4":200.0,"5":10.0,"6":5.0}},
       {"issue":"2026130","draw_date":"2026/11/12","numbers":[1,2,6,16,20,28,2],"source":"https://www.cwl.gov.cn/cwl_admin/front/cwlkj/search/kjxx/findDrawNotice","verification":"verified","prizes":{"1":7754218.0,"2":193655.0,"3":3000.0,"4":200.0,"5":10.0,"6":5.0}},
